@@ -1,4 +1,4 @@
 *.sqlit3
-idea/
-learning_log/
-ll_env/
+/.idea/
+/learning_log/
+/ll_env/
